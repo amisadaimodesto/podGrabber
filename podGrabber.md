@@ -55,7 +55,7 @@ podgrabber/
 
 4. Script
 
-```bash
+```python
 #!/bin/bash
 
 # URL do feed RSS do podcast
