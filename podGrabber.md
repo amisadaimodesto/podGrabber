@@ -40,7 +40,7 @@ Uma ferramenta leve de linha de comando para **baixar episódios de podcasts** d
    ```text $ chmod +x baixar_podcast.sh```
    
 - *Os episódios baixados serão salvos em:*
-/home/[usuário]/podcast/
+```text /home/[usuário]/podcast/```
 
 
 3. Estrutura do projeto:
