@@ -27,7 +27,7 @@ Uma ferramenta leve de linha de comando para **baixar episódios de podcasts** d
 - Python 3
 - wget
 - requests
-- Instale as dependências: python3 python3-pip wget
+- Instale as dependências: ```text python3 python3-pip wget```
 
 
 ## Como usar
@@ -37,7 +37,7 @@ Uma ferramenta leve de linha de comando para **baixar episódios de podcasts** d
 
 
 2. Execute no terminal:
-   $ chmod +x baixar_podcast.sh
+   ```text $ chmod +x baixar_podcast.sh```
    
 - *Os episódios baixados serão salvos em:*
 /home/[usuário]/podcast/
