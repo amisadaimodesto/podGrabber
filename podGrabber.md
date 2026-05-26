@@ -133,7 +133,7 @@ título do episódio
 data de publicação
 URL do MP3
 4. Formata os arquivos como:
-```text aaaa-mm-dd - Título do Episódio.mp3 ```
+```aaaa-mm-dd - Título do Episódio.mp3```
 5. Faz o download usando wget
 
 6. Plataformas compatíveis
