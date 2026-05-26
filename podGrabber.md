@@ -33,7 +33,7 @@ Uma ferramenta leve de linha de comando para **baixar episódios de podcasts** d
 ## Como usar
 
 1. Edite a URL do feed RSS dentro do script:
-   ```python FEED="[insira o link do rss ou feed]"```
+   ```FEED="[insira o link do rss ou feed]"```
 
 
 2. Execute no terminal:
