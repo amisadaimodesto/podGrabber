@@ -54,7 +54,8 @@ podgrabber/
 
 4. Script
 
-```#!/bin/bash
+```bash
+#!/bin/bash
 
 # URL do feed RSS do podcast
 FEED="h[insira o link do rss ou feed]"
