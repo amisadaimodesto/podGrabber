@@ -23,10 +23,10 @@ Uma ferramenta leve de linha de comando para **baixar episódios de podcasts** d
 ---
 
 ## Requisitos
-- GNU/Linux Debian / GNU/Linux Ubuntu / Linux
+- ```GNU/Linux Debian``` / ```GNU/Linux Ubuntu``` / ```Linux```
 - Python 3
-- wget
-- requests
+- ```wget```
+- ```requests```
 - Instale as dependências: ```text python3 python3-pip wget```
 
 
@@ -134,7 +134,7 @@ data de publicação
 URL do MP3
 4. Formata os arquivos como:
 ```aaaa-mm-dd - Título do Episódio.mp3```
-5. Faz o download usando wget
+5. Faz o download usando ```wget```
 
 6. Plataformas compatíveis
 O PodGrabber funciona com feeds RSS padrão, incluindo:
