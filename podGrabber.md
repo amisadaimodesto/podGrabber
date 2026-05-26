@@ -44,13 +44,14 @@ Uma ferramenta leve de linha de comando para **baixar episódios de podcasts** d
 
 
 3. Estrutura do projeto:
-
+```text
 podgrabber/
 ├── baixar_podcast.sh
 ├── README.md
 ├── LICENSE
 ├── .gitignore
 └── downloads/
+```
 
 4. Script
 
